@@ -44,11 +44,14 @@ btn {
   width: 85%;
   border-radius:25px;
 }
+.author {
+  text-align: right; 
+}
 footer {
   padding: 15px;
   background-color: #343a40!important;
   margin-top: 100px;
 }
 footer p {
-  color: rgba(255,255,255, 0.5); 
+  color: rgba(255,255,255, 0.5);
 }
