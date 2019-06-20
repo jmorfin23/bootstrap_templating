@@ -45,7 +45,20 @@ btn {
   border-radius:25px;
 }
 .author {
-  text-align: right; 
+  text-align: right;
+}
+label {
+  display: block;
+  font-weight: bold;
+}
+textarea {
+  resize:both;
+  max-width: 100%;
+  min-width: 100%;
+}
+input {
+  display: block;
+  margin-top: 15px;
 }
 footer {
   padding: 15px;
